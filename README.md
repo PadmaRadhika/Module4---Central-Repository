@@ -1,6 +1,6 @@
 # Phase End Project4 - Central Repository
 
-Welcome to the central repository for QuickSpoon's Food Delivery Application. Below are links to each of the individual repositories:
+Welcome to the central repository for Pet Clinic Application. Below are links to each of the individual repositories:
 
 - [Repo 1: Angular - PetClinic Application](https://github.com/PadmaRadhika/Course_End_Project4.git)
 - [Repo 2: Owner Registration Microservice](https://github.com/PadmaRadhika/Couse_End_Project4_PetOwnerRegistration.git)
